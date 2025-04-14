@@ -1,2 +1,2 @@
 # To-Do-App
-this simple To-Do app using JavaScript and localStorage
+A simple To-Do app using JavaScript and localStorage
